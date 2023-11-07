@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MenuBeauty">
+        <file>setting.png</file>
+        <file>check.png</file>
+        <file>unchecked.png</file>
+    </qresource>
+</RCC>
